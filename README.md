@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AliceRaine
+- 👀 I’m interested in quickly developing my coding skills and using GitHub as a way to host my projects as well as learn from the projects of others.
+- 🌱 I’m currently learning C, C++, and Python. Future goals also include HTML, Javascript, php, and sqlite3. 
+- 💞️ I’m not looking to collaborate on anything specific at this time though in the future I will update this.
+- 📫 A way to reach me will be added in the future.
